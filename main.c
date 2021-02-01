@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	printf("I like git");
-	printf("I hate git");
+	printf("I like git\n");
+	printf("I hate git\n");
+	printf("I am octopus\n");
 }
