@@ -3,5 +3,5 @@
 int main(){
 	printf("I like git\n");
 	printf("I hate git\n");
-	printf("I have new branch\n");
+	printf("I am octopus\n");
 }
