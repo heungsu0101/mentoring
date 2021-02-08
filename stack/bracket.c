@@ -1,8 +1,10 @@
 #include<stdio.h>
 #include<string.h>
+
 #define MAX_SIZE 100
 #define TRUE 1
 #define FALSE 0
+
 typedef struct _stack{
 	int data[MAX_SIZE];
 	int top;
