@@ -7,6 +7,7 @@ typedef struct f{
 }f;
 
 int size;
+
 //후위 순회를 이용한 폴더 용량 계산
 int sizecount(f *a, int pos)
 {
